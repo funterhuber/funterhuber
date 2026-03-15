@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Ferdinand and I'm an ETH statistics student with previous training on Management & Mech. Engineering from TUM.
+
+
+ 🌱 I’m currently gathering experience in data science projects in healthcare and robotics.
+ 
+ 🔭 I’m looking to dive into geometric deep learning and graph/network optimization.
+ 
+ 🌍 Fun fact: I traveled 54 countries. 
+
 <!--
 **funterhuber/funterhuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
